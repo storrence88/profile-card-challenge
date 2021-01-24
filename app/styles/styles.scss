@@ -1,2 +1,11 @@
 @import 'globals';
 @import 'variables';
+@import 'card';
+
+.background {
+  height: 20.938rem;
+  width: 11.875rem;
+  justify-content: center;
+  align-items: center;
+  background-color: gray;
+}
